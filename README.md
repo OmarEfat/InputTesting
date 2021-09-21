@@ -12,3 +12,5 @@ If the user identified the inputing data as Integer, the user will be asked abou
 The purpose of this program to help the user generate input can be used in testing his program and the algorithm used.
 
 ** The idea of this software was inspired by having challenge in testing my data in HackerCup Facebook contest and I found such a software will be helpful in testing my code in the future **
+
+# OMAR TAHA
