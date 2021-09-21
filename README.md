@@ -1,4 +1,4 @@
-# TestingInput
+# InputTesting
 This software helps me in testing my inputs for contests
 It asks the user to either select if his testing input is String or integers: 
 If the user entered S, this means that the data will be entered to the compiler is String type 
